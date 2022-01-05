@@ -1,6 +1,7 @@
 # 6-Companies-in-30-Days - A challenge 💪 by Arsh Goyal
 
 ## 1st Company - Goldman Sachs
+
 Q.1 [Print Anagrams Together](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/)
 --> [Solution](https://github.com/Aniruddha-Inge/6-Companies-in-30-Days/blob/main/Solutions/Q1_solution.java)
 
@@ -35,7 +36,7 @@ Q.11 [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/fi
 --> [Solution](https://github.com/Aniruddha-Inge/6-Companies-in-30-Days/blob/main/Solutions/Q11_solution.java)
 
 Q.12 [Find total number of Squares in a N*N chessboard](#)
---> [Solution](#)
+--> [Solution](https://github.com/Aniruddha-Inge/6-Companies-in-30-Days/blob/main/Solutions/Q12_solution)
 
 Q.13 [Decode the string](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1)
 --> [Solution](#)
