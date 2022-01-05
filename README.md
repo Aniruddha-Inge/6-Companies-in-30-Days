@@ -13,7 +13,7 @@ Q.3 [Count the subarrays having product less than k](https://practice.geeksforge
 Q.4 [Run Length Encoding](https://practice.geeksforgeeks.org/problems/run-length-encoding/1/)
 --> [Solution](#)
 
-Q.5 [Ugly Numbers](https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/)
+Q.5 [Ugly Numbers](https://leetcode.com/problems/ugly-number/)
 --> [Solution](#)
 
 Q.6 [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
