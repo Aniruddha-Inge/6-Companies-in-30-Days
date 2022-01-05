@@ -1,0 +1,19 @@
+Number of 1*1 squares= 8*8=64
+
+Number of 2*2 squares= 7*7=49
+
+Number of 3*3 squares= 6*6=36
+
+Number of 4*4 squares= 5*5=25
+
+Number of 5*5 squares= 4*4=16
+
+Number of 6*6 squares= 3*3=9
+
+Number of 7*7 squares= 2*2=4
+
+Number of 8*8 squares= 1*1=1
+
+Total number of Squares= 8^2+7^2+6^2+...+2^2+1^2= 204
+
+Total number of squares in a n*n chessboard will be = ∑n^2; n varying from 1 to n.
