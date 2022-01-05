@@ -24,7 +24,7 @@ Q.7 [Find the position of M-th item](https://practice.geeksforgeeks.org/problems
 --> [Solution](https://github.com/Aniruddha-Inge/6-Companies-in-30-Days/blob/main/Solutions/Q7_solution.java)
 
 Q.8 [Total Decoding Messages](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/)
---> [Solution](#)
+--> [Solution](https://github.com/Aniruddha-Inge/6-Companies-in-30-Days/blob/main/Solutions/Q8_solution.java)
 
 Q.9 [Number following a pattern](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1)
 --> [Solution](#)
